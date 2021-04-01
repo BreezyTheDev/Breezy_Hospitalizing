@@ -11,7 +11,7 @@ This script is a remake of Badger's famous Jailing script. Instead of doing /jai
 
 `/hospitalize <id> <time>` - Requires `Breezy_Hospitalize.Jail` permission. 
 
-`/release <id>` - Requires `Breezy_Hospitalize` permission.
+`/release <id>` - Requires `Breezy_Hospitalize.Unjail` permission.
 
 
 ## Configuration
