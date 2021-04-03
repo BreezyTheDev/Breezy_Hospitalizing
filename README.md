@@ -52,3 +52,7 @@ Badger's Github: https://github.com/JaredScar
 Badger's Documentation: https://docs.badger.store/
 
 Badger's Discord: https://discord.com/invite/WjB5VFz
+
+
+# Crimson Roleplay
+[![Crimson Roleplay Discord](https://discordapp.com/api/guilds/720058651456438314/widget.json)](https://discord.gg/crp)
